@@ -2,7 +2,8 @@ Hello World,
 
 <img src="https://github.com/suatoruc/suatoruc/blob/main/banner.jpg?raw=true">
 
-<h1 align="center">Hi 👋, I'm Suat ORUç</h1>
+<h1 align="center">Hi 👋, I'm Suat ORUÇ</h1>
+
 <h3 align="center">Full Stack Automation Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suatoruc&label=Profile%20views&color=0e75b6&style=flat" alt="suatoruc" /> </p>
@@ -16,7 +17,9 @@ Hello World,
 - 📫 How to reach me **suat_oruc@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suatoruc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suatoruc/" height="30" width="40" /></a>
 </p>
 
