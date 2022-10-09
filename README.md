@@ -10,9 +10,9 @@ Hello World,
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suatoruc" alt="suatoruc" /></a> </p>
 
-- 🌱 I’m currently learning **Java,Selenium,Sql,Html**
+- 🌱 I’m currently learning **Sql, Cypress, Docker**
 
-- 💬 Ask me about **Java,Selenium,MySql**
+- 💬 Ask me about **Java,Selenium,MySql,Cypress,RestfullApi,Postman**
 
 - 📫 How to reach me **suat_oruc@yahoo.com**
 
