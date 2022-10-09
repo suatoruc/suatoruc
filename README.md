@@ -28,9 +28,9 @@ Hello World,
 
 ![snake svg](https://github.com/suatoruc/suatoruc/blob/output/github-contribution-grid-snake.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suatoruc&show_icons=true&locale=en&layout=compact" alt="suatoruc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suatoruc&show_icons=true&locale=en" alt="suatoruc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suatoruc&show_icons=true&locale=en&layout=compact" alt="suatoruc" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suatoruc&" alt="suatoruc" /></p>
 
