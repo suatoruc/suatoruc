@@ -1,6 +1,6 @@
 Hello World,
 
-<img src="https://github.com/suatoruc/suatoruc/blob/main/1.jpg?raw=true">
+<img src="https://github.com/suatoruc/suatoruc/blob/main/1.png?raw=true">
 
 <h1 align="center">Hi 👋, I'm Suat ORUÇ</h1>
 
